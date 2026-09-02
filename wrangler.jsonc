@@ -1,0 +1,6 @@
+{
+  "name": "anime-app",
+  "assets": {
+    "directory": "./dist"
+  }
+}
