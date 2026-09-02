@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { useQuery } from '@apollo/client/react/hooks'; // use the react subpath
+import { useQuery } from '@apollo/client/react/hooks';
 import { GET_PRODUCTS } from '../api/queries/products';
 import type { Product } from '../api/types/Product';
 import ProductCard from './ProductCard';
