@@ -52,7 +52,7 @@ const Header: React.FC<Props> = ({ onCartClick }) => {
             whileTap={{ scale: 0.98 }}
             transition={{ type: 'spring', stiffness: 500, damping: 30 }}
           >
-            Get Started'
+            Get Started
           </motion.button>
 
           <div style={{ position: 'relative' }}>
